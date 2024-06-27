@@ -2,6 +2,7 @@
 # Problem statement
 Atliq Grands owns several five-star hotels across India. The company has been operating in the hotel industry for 20 years. Due to strategic moves by other competitors and ineffective management decisions, Atliq Grands is losing market share and revenue in the luxury/business hotel category. As a strategic move, the Managing Director of Atliq Grands wanted to bring in "Business and Data Intelligence" to regain market share and revenue. However, the company does not have a dedicated data analytics team to provide these insights.
 The revenue management team has decided to hire an external service provider to provide insights from historical data.
+![imppppppppppppp](https://github.com/klu-2200090125/Atliq-Hospitality-Analysis-UM3/assets/153178870/7ac9436d-7383-4f35-ad4c-9507d9a5db1b)
 
 
 # Task List
